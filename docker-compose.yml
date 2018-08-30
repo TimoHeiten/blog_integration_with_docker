@@ -1,0 +1,15 @@
+version : '3.5'
+
+services: 
+
+   postgres:
+      ports:
+         - '5433'
+      env_file:
+         - '.env_postgres'
+    
+   api:
+      build : '.'
+      ports:
+
+        

@@ -1,0 +1,1 @@
+https://github.com/sleemer/docker.dotnet.debug

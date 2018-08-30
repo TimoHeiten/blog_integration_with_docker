@@ -1,0 +1,14 @@
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/bin/Debug/netcoreapp2.1/integration_with_docker.deps.json
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/bin/Debug/netcoreapp2.1/integration_with_docker.runtimeconfig.json
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/bin/Debug/netcoreapp2.1/integration_with_docker.runtimeconfig.dev.json
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/bin/Debug/netcoreapp2.1/integration_with_docker.dll
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/bin/Debug/netcoreapp2.1/integration_with_docker.pdb
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.csprojAssemblyReference.cache
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.csproj.CoreCompileInputs.cache
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.RazorAssemblyInfo.cache
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.RazorAssemblyInfo.cs
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.AssemblyInfoInputs.cache
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.AssemblyInfo.cs
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.RazorTargetAssemblyInfo.cache
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.dll
+/Users/timoheiten/OneDrive/Projects/aspnetcore/blog_proj/integration_with_docker/src/obj/Debug/netcoreapp2.1/integration_with_docker.pdb
